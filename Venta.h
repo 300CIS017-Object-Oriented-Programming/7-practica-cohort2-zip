@@ -31,4 +31,4 @@ public:
     int getId() const;
 };
 
-#endif 
+#endif
